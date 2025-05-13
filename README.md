@@ -17,5 +17,9 @@ This project provides a robust pipeline for analyzing football clips using compu
 - ipykernel
 # Installation
 1. Clone this repository:
-  <pre>'''git clone https://github.com/yourusername/football-clip-analysis.git
-cd football-clip-analysis'''<pre>
+```bash
+git clone https://github.com/yourusername/football-clip-analysis.git
+cd football-clip-analysis
+
+
+
