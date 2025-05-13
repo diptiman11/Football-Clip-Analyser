@@ -1,0 +1,10 @@
+videoenv
+models/best_YOLOv5.pt
+models/best.pt
+models/last_YOLOv5.pt
+models/last.pt
+models/yolov8x.pt
+output_video/output_video.avi
+output_video/output_video.mp4
+input_video/08fd33_4.mp4
+input_video/veo-11-a-side-field.mp4
