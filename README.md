@@ -20,6 +20,20 @@ This project provides a robust pipeline for analyzing football clips using compu
 ```bash
 git clone https://github.com/yourusername/football-clip-analysis.git
 cd football-clip-analysis
+```
+2. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+# Usage
+1. Place your input football video clips in the `input` folder.
+2. Run the analysis script:
+```bash
+python main.py
+```
+3. Find the analyzed videos in the `output_video` folder.
+# Example Clips
+## Before Analysis
 
 
 
